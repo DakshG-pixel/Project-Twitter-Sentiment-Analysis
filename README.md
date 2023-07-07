@@ -22,5 +22,4 @@ This project performs sentiment analysis on Twitter data to classify tweets as p
 # libraries used
 numpy, pandas , re , matplotlib, wordcloud, time, NLTK(natural language toolkit), sklearn(sci-kit learn)
 
-# Contributing
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please submit an issue or a pull request.
